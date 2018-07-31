@@ -19,7 +19,7 @@ body {
 
 /* Write all remaining styles here */
 
-.wrapper h1 {
+.wrapper h1 a {
 	text-decoration: none;
 	margin: .2em 0em;
 	font-size: 3em;
