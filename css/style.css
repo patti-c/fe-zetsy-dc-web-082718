@@ -46,6 +46,7 @@ footer {
 }
 
 .button img {
+	display: inline;
 	border-style: solid;
 	border-width: 3px;
 	color: #9CAEA8;
