@@ -20,6 +20,7 @@ body {
 /* Write all remaining styles here */
 
 .wrapper h1 {
+	margin: 1em;
 	font-size: 3em;
 	font-family: 'Libre Baskerville', serif;
 	color: #9CAEA8;
