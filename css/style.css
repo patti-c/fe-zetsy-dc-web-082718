@@ -35,6 +35,10 @@ p {
 	color: #9CAEA8;
 }
 
+.wrapper h1 a:hover {
+  color: #6F7F7A;
+}
+
 h2 {
 	font-size:1.5em;
 	font-family: 'Libre Baskerville', serif;
