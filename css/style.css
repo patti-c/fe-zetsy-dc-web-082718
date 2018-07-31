@@ -23,6 +23,10 @@ a {
 	text-decoration: none;
 }
 
+p {
+	font-family: 'Merriweather', serif;
+}
+
 .wrapper h1 a {
 	text-decoration: none;
 	margin: .2em 0em;
