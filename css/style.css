@@ -20,7 +20,7 @@ body {
 /* Write all remaining styles here */
 
 h1 {
-	size: 5em;
+	font-size: 5em;
 	font-family: 'Baskerville', serif;
 	color: #9CAEA8;
 }
