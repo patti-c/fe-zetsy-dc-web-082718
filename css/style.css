@@ -19,7 +19,7 @@ body {
 
 /* Write all remaining styles here */
 
-h1 {
+.wrapper h1 {
 	font-size: 5em;
 	font-family: 'Baskerville', serif;
 	color: #9CAEA8;
