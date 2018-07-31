@@ -23,6 +23,10 @@ a {
 	text-decoration: none;
 }
 
+a:hover{
+	text-decoration: underline;
+}
+
 p {
 	font-family: 'Merriweather', serif;
 }
