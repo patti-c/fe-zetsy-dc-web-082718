@@ -32,5 +32,6 @@ h2 {
 
 #necklace {
 	border-style: solid;
-	border-width: 1px;
+	border-width: 3px;
+	color: #9CAEA8;
 }
