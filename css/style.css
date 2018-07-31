@@ -47,3 +47,12 @@ footer {
 	border-width: 3px;
 	color: #9CAEA8;
 }
+
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	height: 0;
+	line-height: 0;
+}
